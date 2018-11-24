@@ -1,0 +1,1 @@
+在app 下 建立文件夹 lib  全小写的文件夹(new -> directory) 然后复制jar文件 右键 add as libary (实质是在对应build 文件下 添加了implementation files('lib/a.jar') )
